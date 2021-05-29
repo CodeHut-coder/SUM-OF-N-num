@@ -8,4 +8,4 @@ sum=0
 for i in range (1,n+1):
   sum+=i
 #output
-print("The number is:", sum)
+print("The sum of first %d number is %d:"%(n, sum))
